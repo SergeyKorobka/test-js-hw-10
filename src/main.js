@@ -1,4 +1,4 @@
-import { PREP_TIME } from './js/menu';
+import { PREP_TIME } from './js/menu.js';
 
 const refs = {
   form: document.querySelector('.form'),
